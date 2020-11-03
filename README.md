@@ -10,9 +10,10 @@ This is a simple App made in Typescript, HTML5 and Css. It Simulate a Store wher
 
 🔥 **Typescript** \
 🔥 **JS** \
+🔥 **JSON** \
 🔥 **HTML5** \
 🔥 **CSS** \
-🔥 **JSON**
+🔥 **Flexbox**
 
 ## To run this app
 
