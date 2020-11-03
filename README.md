@@ -1,8 +1,10 @@
 ### TypeScript Simple Shopping Cart
 
-💻 [Typescript Simple Shopping Cart](https://www.dccomics.com/)
+🌌 [IMG](https://lennon182.github.io/assets/images/typescriptsimpleshoppingcart.png)
 
-🌍 https://www.dccomics.com/
+💻 [Typescript Simple Shopping Cart](https://lennon182.github.io/typescript-simpleshoppingcart)
+
+🌍 https://lennon182.github.io/typescript-simpleshoppingcart
 
 This is a simple App made in Typescript, HTML5 and Css. It Simulate a Store where you can buy comics through a Simple Shopping Cart.
 
