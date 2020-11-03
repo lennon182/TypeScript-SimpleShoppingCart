@@ -1,6 +1,6 @@
 ### TypeScript Simple Shopping Cart
 
-🌌 [IMG](https://lennon182.github.io/assets/images/typescriptsimpleshoppingcart.png)
+![GitHub Logo](https://lennon182.github.io/assets/images/typescriptsimpleshoppingcart.png)
 
 💻 [Typescript Simple Shopping Cart](https://lennon182.github.io/typescript-simpleshoppingcart)
 
